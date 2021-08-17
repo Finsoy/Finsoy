@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finsoy)](https://github.com/Finsoy/github-readme-stats)        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finsoy&show_icons=true)
 
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Finsoy)](https://github.com/Finsoy/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Finsoy)](https://github.com/Finsoy/github-readme-stats)
 
 
 <!--
