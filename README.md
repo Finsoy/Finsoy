@@ -4,10 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finsoy)](https://github.com/Finsoy/github-readme-stats)        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finsoy&show_icons=true)
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Finsoy)](https://github.com/Finsoy/github-readme-stats)
-
-
 <!--
 **Finsoy/Finsoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
