@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Finsoy&color=brightgreen)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Finsoy)](https://github.com/Finsoy/github-readme-stats)        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Finsoy&show_icons=true)
 
 
